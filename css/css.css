@@ -262,6 +262,12 @@ p {
 .copyright-text {
   margin-bottom: 30px;
 }
+.linkedIn{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 .link {
   color: #676767;
