@@ -161,7 +161,7 @@ a:hover {
   padding: 20px 45px;
 }
 
-.portfolio-description h3 {
+.portfolio-description h3+h4 {
   margin-bottom: 20px;
 }
 
