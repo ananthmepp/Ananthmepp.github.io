@@ -9,7 +9,16 @@
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/css.css" />
     <title>Ananth Mepperla's Profile</title>
-
+    <script>
+      document.addEventListener('DOMContentLoaded', function()
+      {
+        document.querySelector('form').onsubmit = function()
+        {
+          const name = document.querySelector('#contact_name').value;
+          alert(`Thank you for your message, ${name}  I will get in touch with you soon!`);
+        }
+      });
+    </script>
   </head>
   <body>
     <!-- Welcome Section -->
