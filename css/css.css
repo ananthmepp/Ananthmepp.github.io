@@ -15,6 +15,11 @@ hl {
   color: #000080;
 }
 
+.cert{
+  text-align: center;
+  color: greenyellow;
+}
+
 body {
   font-family: "Open Sans", Arial, Helvetica, sans-serif;
   font-size: 18px;
