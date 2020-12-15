@@ -147,6 +147,9 @@ a:hover {
 .ec{
   font-size: 35px;
 }
+.cert{
+  font-size: 35px;
+}
 .portfolio-item {
   display: flex;
   align-items: center;
@@ -190,6 +193,10 @@ a:hover {
 
 .text-dark-gray {
   color: #676767;
+}
+
+.text-blue{
+  color: skyblue;
 }
 
 .title-small {
