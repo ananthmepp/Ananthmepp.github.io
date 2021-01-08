@@ -197,6 +197,14 @@ a:hover {
   color: skyblue;
 }
 
+.text-yellow{
+  color: yellow;
+}
+
+.text-purple{
+  color: purple;
+}
+
 .title-small {
   font-size: 1.3rem;
 }
